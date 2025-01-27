@@ -1,0 +1,27 @@
+# Theme/Appearance
+# Themes I like: nightfox, Nocturnal Winter, rose-pine-moon, Royal, tokyonight_night
+theme = tokyonight_night
+cursor-invert-fg-bg = true
+background-opacity = 0.98
+window-height = 33
+window-width = 112
+window-padding-x = 15
+window-padding-y = 15
+window-padding-balance = true
+gtk-titlebar = false
+
+# Font
+font-family = CaskaydiaCove Nerd Font Mono
+font-size = 14
+cursor-style = block
+
+# Shell Integration
+shell-integration = fish
+command = /usr/bin/fish
+
+# Clipboard
+clipboard-read = allow
+clipboard-write = allow
+
+# Misc
+confirm-close-surface = false
